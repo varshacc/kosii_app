@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720055324671",
+    "project_id": "koskii-push-notification",
+    "storage_bucket": "koskii-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720055324671:android:20a07e74af6b9e544b21ca",
+        "android_client_info": {
+          "package_name": "cloudcosmos.koskii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720055324671-c0icfs8qtgbkrtdoc4g25n4jei4h0oun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWR6QqrWqIEbEpOlDnUbNIVnFYEXDuNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720055324671-c0icfs8qtgbkrtdoc4g25n4jei4h0oun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
